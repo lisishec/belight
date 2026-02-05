@@ -152,7 +152,7 @@ header{
     font-family: Playwrite NZ Basic;
 }
 .slides .slide1{
-    background-image: url('/velas decorativas.avif');
+    background-image: url('../imgs/velas decorativas.avif');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -161,7 +161,7 @@ header{
     /* object-fit: cover; */
 }
 .slides .slide2{
-    background-image: url('/velas flutuantes.jpg');
+    background-image: url('../imgs/velas flutuantes.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -169,7 +169,7 @@ header{
     height: 17rem;
 }
 .slides .slide3{
-    background-image: url('/cenário com velas.png');
+    background-image: url('../imgs/cenário com velas.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
